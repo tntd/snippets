@@ -1,0 +1,27 @@
+{
+	"name": "snippets",
+	"version": "1.0.0",
+	"description": "常用代码段",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tntd/snippets.git"
+	},
+	"author": "tntd",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/tntd/snippets/issues"
+	},
+	"homepage": "https://github.com/tntd/snippets#readme",
+	"devDependencies": {
+		"babel-eslint": "^10.1.0",
+		"eslint": "^6.8.0",
+		"eslint-config-tdued": "^1.2.0",
+		"eslint-plugin-import": "^2.20.2",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"eslint-plugin-react": "^7.19.0"
+	}
+}
