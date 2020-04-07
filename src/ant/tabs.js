@@ -1,7 +1,7 @@
 <Tabs
 	defaultActiveKey="1"
-	onChange={() => {
-
+	onChange={(activeKey) => {
+		console.log("current key", activeKey);
 	}}
 >
 	<TabPane tab="Tab 1" key="1">

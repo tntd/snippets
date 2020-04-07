@@ -1,5 +1,5 @@
 import { message } from "antd";
-import service from "./tntdService";
+import service from "./service";
 
 export default {
 	namespace: "demo",
